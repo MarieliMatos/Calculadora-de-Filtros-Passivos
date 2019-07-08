@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>Imagens/pb_rc.png</file>
+        <file>Imagens/pa_rc.png</file>
+        <file>Imagens/pa_rl.png</file>
+        <file>Imagens/passa_faixa.png</file>
+        <file>Imagens/pb_rl.png</file>
+        <file>Imagens/rejeita_faixa.png</file>
+    </qresource>
+</RCC>
